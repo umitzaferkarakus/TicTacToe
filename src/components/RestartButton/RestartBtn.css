@@ -1,0 +1,9 @@
+.restart-btn{
+    border: none;
+    border-radius: 0.5rem;
+    background-color: rgb(27, 118, 215);
+    color: white;
+    padding: 1rem 3rem;
+    margin: 2rem auto;
+    display: block;
+}
